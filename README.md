@@ -19,5 +19,5 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/r4KaNIe.gif)
 
-<img src='![](https://i.imgur.com/r4KaNIe.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/r4KaNIe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
