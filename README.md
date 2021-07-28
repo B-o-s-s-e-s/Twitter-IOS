@@ -67,9 +67,10 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-     ![](https://i.imgur.com/aEuFZpz.gif)
-https://i.imgur.com/aEuFZpz.gif
+![](https://i.imgur.com/aEuFZpz.gif)
+     
 
-<img src='![](https://i.imgur.com/aEuFZpz.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />f' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='![](https://i.imgur.com/aEuFZpz.gif)' title='Video Walkthrough' width='300' alt='Video Walkthrough' />f' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
